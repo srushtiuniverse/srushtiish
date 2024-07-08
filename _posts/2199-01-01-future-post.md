@@ -4,13 +4,11 @@ date: '05-07-2024'
 permalink: /posts/2024/07/update1/
 tags:
   - updates
-  - category1
-  - category2
 ---
 
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
 
-hello there!
+hello there,
 
 i have understood importance of priortising my health, both mental and physical. 
 
@@ -43,3 +41,4 @@ some notes:
   - i was supposed to get vitamink2 mk4 but it isn't avaliable 
   - i tried taking aspirin too, but i didn't have a good reaction to it so i decided it's better not to take it.
 
+end
