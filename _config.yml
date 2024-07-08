@@ -22,7 +22,7 @@ repository               : "srushtiish/srushtiuniverse.github.io"
 author:
   # Biographic information
   avatar           : "intpfp.png"
-  name             : "Srushti Ishwarkatti"
+  name             : "Srushti"
   pronouns         : "she/her"  
   bio              : "curius-ing"
   location         : "india"
@@ -47,7 +47,7 @@ author:
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
